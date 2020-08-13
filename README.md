@@ -14,8 +14,8 @@ Desenvolvido com React
 
 Desenvolvido com React Native e expo
 
-![imagem2](https://github.com/VanLMC/next-level-week/blob/master/screenshots/Proffy_mobile.png)
-![imagem3](https://github.com/VanLMC/next-level-week/blob/master/screenshots/Proffy_mobile_2.png)
+![imagem2](https://github.com/VanLMC/next-level-week/blob/master/screenshots/Proffy_mobile.jpeg)
+![imagem3](https://github.com/VanLMC/next-level-week/blob/master/screenshots/Proffy_mobile_2.jpeg)
 
 # Api
 
